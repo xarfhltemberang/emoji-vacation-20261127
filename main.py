@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """One Emoji, One Dream Vacation.
 
-Writes exactly one emoji -- Mount Fuji -- to /output/entry.txt.
+Writes exactly one emoji -- Desert Island -- to /output/entry.txt.
 Python 3 standard library only; no network, no randomness.
 """
 
 import os
 
-ENTRY = "\U0001F5FB"  # MOUNT FUJI
+ENTRY = "\U0001F3DD"  # DESERT ISLAND
 
 
 def main() -> None:
